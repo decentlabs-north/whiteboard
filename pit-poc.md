@@ -8,7 +8,7 @@ keyA
 ```
 
 2. Second user clones manually:
-````bash
+```bash
 [contributor:~/]$ mkdir project
 [contributor:~/]$ cd project/
 [contributor:~/project]$ git init . # empty repo without commits.
